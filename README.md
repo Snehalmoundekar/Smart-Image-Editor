@@ -21,5 +21,5 @@ A powerful **image editing tool** that allows users to upload, **crop**, **resiz
 ## 📌 Installation  
 1. Clone the repository:  
    ```bash
-   https://github.com/Snehalmoundekar/Smart-Image-Editor
+   https://github.com/Snehalmoundekar/smart-image-editor
 
